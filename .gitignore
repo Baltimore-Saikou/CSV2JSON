@@ -1,0 +1,7 @@
+.git
+.vs
+debug
+release
+*.user
+*.vcxproj
+*.filters
