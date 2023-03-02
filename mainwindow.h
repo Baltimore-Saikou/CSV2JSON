@@ -17,5 +17,9 @@ public:
 
 private:
     Ui::MainWindow *ui;
+
+
+private slots:
+    void on_selectCsvButton_clicked();
 };
 #endif // MAINWINDOW_H
